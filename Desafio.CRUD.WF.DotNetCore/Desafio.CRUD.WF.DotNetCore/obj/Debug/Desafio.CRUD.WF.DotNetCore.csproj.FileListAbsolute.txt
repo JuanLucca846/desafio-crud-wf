@@ -1,0 +1,10 @@
+C:\Users\Juan Lucca\source\repos\Desafio.CRUD.WF.DotNetCore\Desafio.CRUD.WF.DotNetCore\bin\Debug\Desafio.CRUD.WF.DotNetCore.exe.config
+C:\Users\Juan Lucca\source\repos\Desafio.CRUD.WF.DotNetCore\Desafio.CRUD.WF.DotNetCore\bin\Debug\Desafio.CRUD.WF.DotNetCore.exe
+C:\Users\Juan Lucca\source\repos\Desafio.CRUD.WF.DotNetCore\Desafio.CRUD.WF.DotNetCore\bin\Debug\Desafio.CRUD.WF.DotNetCore.pdb
+C:\Users\Juan Lucca\source\repos\Desafio.CRUD.WF.DotNetCore\Desafio.CRUD.WF.DotNetCore\obj\Debug\Desafio.CRUD.WF.DotNetCore.csproj.AssemblyReference.cache
+C:\Users\Juan Lucca\source\repos\Desafio.CRUD.WF.DotNetCore\Desafio.CRUD.WF.DotNetCore\obj\Debug\Desafio.CRUD.WF.DotNetCore.Form1.resources
+C:\Users\Juan Lucca\source\repos\Desafio.CRUD.WF.DotNetCore\Desafio.CRUD.WF.DotNetCore\obj\Debug\Desafio.CRUD.WF.DotNetCore.Properties.Resources.resources
+C:\Users\Juan Lucca\source\repos\Desafio.CRUD.WF.DotNetCore\Desafio.CRUD.WF.DotNetCore\obj\Debug\Desafio.CRUD.WF.DotNetCore.csproj.GenerateResource.cache
+C:\Users\Juan Lucca\source\repos\Desafio.CRUD.WF.DotNetCore\Desafio.CRUD.WF.DotNetCore\obj\Debug\Desafio.CRUD.WF.DotNetCore.csproj.CoreCompileInputs.cache
+C:\Users\Juan Lucca\source\repos\Desafio.CRUD.WF.DotNetCore\Desafio.CRUD.WF.DotNetCore\obj\Debug\Desafio.CRUD.WF.DotNetCore.exe
+C:\Users\Juan Lucca\source\repos\Desafio.CRUD.WF.DotNetCore\Desafio.CRUD.WF.DotNetCore\obj\Debug\Desafio.CRUD.WF.DotNetCore.pdb
